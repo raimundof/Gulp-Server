@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_gulp",
+  "version": "1.0.0",
+  "description": "demo proyecto gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "gulp"
+  ],
+  "author": "rene",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "ngrok": "^2.2.9"
+  }
+}
